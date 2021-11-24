@@ -9,4 +9,4 @@ Install all the packages from 'requirements.txt' file using the command - `pip i
 
 Now, Navigate to Gen and Scale folder and run the command - `python main.py` to run the Joint-Learning generative model and Score-scaling model respectively.
 
-Now, navigate to Analysis folder and run 'cold_bias_analysis_ColdRec.ipynb' and 'cold_bias_analysis_Debias.ipynb' files in Jupyter Notebook.
+Now, navigate to 'Data/ml1m' folder and run 'cold_bias_analysis_ColdRec.ipynb' and 'cold_bias_analysis_Debias.ipynb' files in Jupyter Notebook.
