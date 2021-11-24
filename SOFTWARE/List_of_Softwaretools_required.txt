@@ -1,0 +1,4 @@
+Software tools utilized in our project
+1. Anaconda Navigator
+2. Python 3.7.5 
+3. Jupyter Notebook installed in Anaconda Environment
